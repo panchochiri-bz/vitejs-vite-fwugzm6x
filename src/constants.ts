@@ -46,7 +46,7 @@ export const SERVICES = [
     path: '/business/construction',
     heroImage:
       'https://placehold.co/800x500/f3f4f6/9ca3af?text=Image+Coming+Soon',
-    title: '高品質な施工と 環境に配慮した一般建築業',
+    title: '高品質な施工と環境に配慮した一般建築業',
     content: `株式会社アイズリンクの一般建築業は、「安全第一」をモットーに、新築からリノベーション、電力インフラ整備、そして建物の寿命を終えた際の解体工事までを一貫して手掛ける総合的なサービスです。一般建築分野では、商業施設、工場、オフィス、戸建て住宅などの多様なニーズに応じた設計・施工管理を提供しています。`,
   },
   {

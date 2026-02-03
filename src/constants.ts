@@ -1,6 +1,6 @@
-import type { Service, NewsItem } from './types';
+import type { Service, NewsItem, CompanyInfo } from './types';
 
-export const COMPANY_INFO = {
+export const COMPANY_INFO: CompanyInfo = {
   name: '株式会社アイズリンク',
   enName: 'Is Link Co., Ltd.',
   address: '〒183-0005 東京都府中市若松町1-2-7 森下ビル1階',
